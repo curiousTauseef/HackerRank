@@ -37,6 +37,6 @@ def run():
     # Print the result array
     for number in result:
         print(number)
-        
+
 
 run()
